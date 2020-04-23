@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\sogang\downloads\cnn_std\convolutionalneuralnetwork\3rdparty\include\openblas\common_x86.h(101): warning C4311: '형식 캐스트': 'void *'에서 'unsigned long'(으)로 포인터가 잘립니다.
+c:\users\sogang\downloads\cnn_std\convolutionalneuralnetwork\3rdparty\include\openblas\common_x86.h(101): warning C4302: '형식 캐스트': 'void *'에서 'unsigned long'(으)로 잘립니다.
+c:\users\sogang\downloads\cnn_std\convolutionalneuralnetwork\cnn.h(294): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\sogang\downloads\cnn_std\convolutionalneuralnetwork\cnn.h(312): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\sogang\downloads\cnn_std\convolutionalneuralnetwork\cnn.h(319): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\sogang\downloads\cnn_std\convolutionalneuralnetwork\cnn.h(325): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\sogang\downloads\cnn_std\convolutionalneuralnetwork\3rdparty\include\mnist.h(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\sogang\downloads\cnn_std\convolutionalneuralnetwork\3rdparty\include\mnist.h(32): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+  ConvolutionNeuralNetwork.vcxproj -> C:\Users\SOGANG\Downloads\CNN_std\x64\Debug\ConvolutionNeuralNetwork.exe

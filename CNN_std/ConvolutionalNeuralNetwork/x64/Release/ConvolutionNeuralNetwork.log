@@ -1,0 +1,2 @@
+﻿  main.cpp
+c:\users\sogang\downloads\cnn_std\convolutionalneuralnetwork\mlp.h(7): fatal error C1083: 포함 파일을 열 수 없습니다. 'openblas/cblas.h': No such file or directory
